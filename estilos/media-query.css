@@ -31,7 +31,7 @@ DESKTOP - min-width 1025px and max-width 1920
     }
 }
 
-@media screen and (min-width: 1025px) { /* DESKTOP + */
+@media screen and (min-width: 1025px) and (max-width: 1920px) { /* DESKTOP + */
 
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);

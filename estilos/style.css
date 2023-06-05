@@ -68,7 +68,7 @@ form > div.campo {
     display: block;
     background-color: #5f2c82;
     border: 2px solid #5f2c82;
-    width: 100%;
+    width: 95%;
     height: 40px;
     border-radius: 8px;
     margin: 5px 0px;
@@ -80,7 +80,6 @@ div.campo > label {
 
 div.campo > span {
     color: white;
-    /*background-color: black;*/
     font-size: 2em;
     width: 40px;
     padding: 5px;
